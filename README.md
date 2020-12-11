@@ -1,5 +1,10 @@
 [![Banner for aayush](https://github.com/aayushvats/aayushvats/blob/main/Adobe_Post_20201212_0151400.6938934804215817.png)](github.com/aayushvats)
 <h1 align='center'>Hi there :wave:</h1>
+<p align='center'>
+I'm Aayush.
+</p>
+
+<h1 align='center'><i>Stay Awesome!</i></h1>
 
 <!--
 **aayushvats/aayushvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
