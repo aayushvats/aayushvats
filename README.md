@@ -1,4 +1,4 @@
-[![Banner for aayush]()](github.com/aayushvats)
+[![Banner for aayush](https://github.com/aayushvats/aayushvats/blob/main/Adobe_Post_20201212_0151400.6938934804215817.png)](github.com/aayushvats)
 <h1 align='center'>Hi there :wave:</h1>
 
 <!--
