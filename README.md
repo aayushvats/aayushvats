@@ -4,9 +4,9 @@
 I'm Aayush.
 </p>
 <p>
-- 👨‍💻 I’m currently working on Mobile Development from Flutter Framework
-- 📚 I’m currently learning everything about Software Devlopment technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on Mobile Development from Flutter Framework<br>
+- 📚 I’m currently learning everything about Software Devlopment technologies 😅<br>
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 - ⚡ Fun fact:
 </p>
 
