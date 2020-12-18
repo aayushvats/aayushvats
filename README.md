@@ -3,7 +3,7 @@
 <h2 align='center'>
 I'm a Computer Science Engineering Student.
 </h2>
-<img align="right" alt="GIF" height="170px" src="https://st4.depositphotos.com/6489488/21545/v/380/depositphotos_215454752-stock-illustration-github-icon-design-vector-illustration.jpg" />
+<img align="right" alt="GIF" height="170px" src="hhttps://github.com/aayushvats/aayushvats/blob/main/1608321511594.png" />
 <p>
 - 👨‍💻 I’m currently working on Mobile Development from Flutter Framework<br>
 - 📚 I’m currently learning everything about Software Devlopment technologies 😅<br>
