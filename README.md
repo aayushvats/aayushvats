@@ -9,7 +9,8 @@ I'm a Computer Science Engineering Student.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 - ⚡ Fun fact:
 </p>
-
+<h3>Connect with me:</h3>
+<a href = "https://www.instagram.com/vats.uup/" ><img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051262.svg" /></a> &thinsp; <a href = "https://twitter.com/vatsuup" ><img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051280.svg" /></a> &thinsp; <a href = "" ><img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051283.svg" /></a>
 
 
 
