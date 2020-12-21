@@ -4,15 +4,13 @@
 I'm a Computer Science Engineering Student.
 </h3>
 <img align="right" alt="github_logo" height="170px" src="https://github.com/aayushvats/aayushvats/blob/main/1608321511594.png" />
+<br><br>
 <p>
 - 👨‍💻 I’m currently working on Mobile Development from Flutter Framework<br>
 - 📚 I’m currently learning everything about Software Devlopment technologies 😅<br>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
 - ⚡ Fun fact: <br>
-- <br>
-- <br>
-- <br>
-- <br>
+- <br><br>
 </p>
 
 <img align="right" alt="spotify_logo" height="170px" src="https://i.ibb.co/fDM9Rgx/1608467489016.png" />
