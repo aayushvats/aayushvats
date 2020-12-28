@@ -14,7 +14,7 @@ I'm a Computer Science Engineering Student
 </p>
 
 <img align="right" alt="spotify_logo" height="170px" src="https://i.ibb.co/fDM9Rgx/1608467489016.png" />
-<h3>Spotify Playing :</h3>
+<h3>Spotify Playing:</h3>
 TBD
 
 <h3>Connect with me:</h3>
